@@ -201,6 +201,10 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 
+# Jupyter Notebook checkpoints
+*.ipynb_checkpoints/
+.ipynb_checkpoints/
+
 # Marimo
 marimo/_static/
 marimo/_lsp/
