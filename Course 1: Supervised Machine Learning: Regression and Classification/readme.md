@@ -1,46 +1,142 @@
-# Andrew Ng's Machine Learning Specialization - Course 1: Supervised Machine Learning: Regression and Classification
+# Andrew Ng's Machine Learning Specialization
 
-This repository contains my personal notes, Jupyter notebooks, and assignments for **Course 1** of the Machine Learning Specialization taught by Andrew Ng on DeepLearning.Ai.
+## Course 1: Supervised Machine Learning — Regression and Classification
 
-## Specialization Title: Machine Learning Specialization by Andrew Ng
-## Course 1 Title: Supervised Machine Learning: Regression and Classification
+This repository contains my **personal notes, Jupyter notebooks, and assignments** for **Course 1 of the Machine Learning Specialization** taught by **Andrew Ng** on **DeepLearning.AI (Coursera)**.
 
-This course covers foundational supervised learning concepts. My completed work, including lecture notes and practical code, can be found within the following folders in this repository.
----
-
-### Week 1: Introduction to Machine Learning
-
-**Key Concepts and Notebooks:**
-* Supervised & Unsupervised Learning (Lecture notes & practice quiz).
-* Regression Model (Practical implementation).
-* Cost Function (Practical implementation).
-* Gradient Descent (Detailed implementation and training).
+The course introduces the **fundamental concepts of supervised machine learning**, including regression, classification, cost functions, gradient descent, and regularization.
 
 ---
 
-### Week 2: Regression with multiple input variables
+# 📜 Certificate
 
-**Key Concepts and Notebooks:**
-* Vectorization (Vectorizing implementations for speed).
-* Multiple Linear Regression (Practical implementation).
-* Practice Quizzes for Multiple Linear Regression.
-* Feature Scaling and Learning Rate optimization.
-* Polynomial Regression.
-* Scikit-Learn implementation (Using `sklearn` for gradient descent).
+<p align="center">
+<img src="certificate.png" width="700">
+</p>
+
+🔗 **Certificate Verification:**
+[View Certificate](https://learn.deeplearning.ai/certificates/c4a84af8-dc52-440b-98cd-aea70c5fb784?usp=sharing)
 
 ---
 
-### Week 3: Classification
+# 📚 Specialization Information
 
-**Key Concepts and Notebooks:**
-* Classification with Logistic Regression.
-* Sigmoid function properties and practical implementation.
-* Decision Boundary.
-* Cost Function for Logistic Regression (Practical implementation).
-* Gradient Descent for Logistic Regression (Detailed implementation).
-* Gradient Descent for Logistic Regression using Scikit-Learn.
-* Practice Quizzes on Classification and Cost Functions.
-* The Problem of Overfitting and Regularization (Concept and solutions).
-* Regularization for Linear and Logistic Regression (Practical implementation).
+**Specialization:** Machine Learning Specialization by Andrew Ng
+**Course:** Supervised Machine Learning: Regression and Classification
+**Instructor:** Andrew Ng
+**Platform:** Coursera / DeepLearning.AI
 
+---
 
+# 📂 Repository Structure
+
+```
+Machine-Learning-Specialization-by-Andrew-Ng
+│
+└── Course 1: Supervised Machine Learning: Regression and Classification
+    │
+    ├── Week 1: Introduction to Machine Learning
+    ├── Week 2: Regression with multiple input variables
+    └── Week 3: Classification
+```
+
+---
+
+# Week 1: Introduction to Machine Learning
+
+### Key Concepts and Notebooks
+
+* **Supervised & Unsupervised Learning**
+  Lecture notes and practice quiz.
+
+* **Regression Model**
+  Practical implementation of linear regression.
+
+* **Cost Function**
+  Understanding the cost function and its role in training models.
+
+* **Gradient Descent**
+  Detailed implementation and model training using gradient descent.
+
+---
+
+# Week 2: Regression with Multiple Input Variables
+
+### Key Concepts and Notebooks
+
+* **Vectorization**
+  Optimizing implementations using NumPy vectorization.
+
+* **Multiple Linear Regression**
+  Practical implementation with multiple features.
+
+* **Practice Quizzes**
+  Exercises related to multiple linear regression.
+
+* **Feature Scaling and Learning Rate Optimization**
+
+* **Polynomial Regression**
+
+* **Scikit-Learn Implementation**
+  Using `sklearn` for linear regression and gradient descent.
+
+---
+
+# Week 3: Classification
+
+### Key Concepts and Notebooks
+
+* **Classification with Logistic Regression**
+
+* **Sigmoid Function**
+  Properties and practical implementation.
+
+* **Decision Boundary**
+
+* **Cost Function for Logistic Regression**
+
+* **Gradient Descent for Logistic Regression**
+
+* **Logistic Regression using Scikit-Learn**
+
+* **Practice Quizzes on Classification**
+
+* **The Problem of Overfitting**
+
+* **Regularization for Linear and Logistic Regression**
+
+---
+
+# 🧠 Skills Learned
+
+* Linear Regression
+* Logistic Regression
+* Gradient Descent Optimization
+* Feature Scaling
+* Vectorization with NumPy
+* Model Evaluation
+* Overfitting and Regularization
+
+---
+
+# 🛠 Technologies Used
+
+* Python
+* NumPy
+* Scikit-Learn
+* Jupyter Notebook
+* Google Colab
+* Matplotlib
+
+---
+
+# 👨‍💻 Author
+
+**Anuj Chaudhary**
+
+GitHub:
+https://github.com/beingAnujChaudhary
+
+---
+
+⭐ If you found this repository useful, feel free to star it!
